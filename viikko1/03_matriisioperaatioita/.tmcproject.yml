@@ -1,0 +1,4 @@
+extra_student_files:
+  - R/matriisioperaatioita.R
+  - tests/testthat/testsMatriisioperaatioita.R
+

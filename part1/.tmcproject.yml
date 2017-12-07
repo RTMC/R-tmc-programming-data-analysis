@@ -1,0 +1,9 @@
+extra_student_files:
+  - R/arithmetics.R
+  - R/matrices.R
+  - R/week1.R
+  - tests/testthat/testArithmetics.R
+  - tests/testthat/testMatrices.R
+  - tests/testthat/testStrings.R
+  - tests/testthat/testsWeek1.R
+
