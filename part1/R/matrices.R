@@ -1,3 +1,4 @@
+
 transpose_matrix <- function(matrix) {
   # BEGIN SOLUTION
     return(t(matrix))

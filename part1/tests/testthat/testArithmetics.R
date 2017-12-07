@@ -8,6 +8,7 @@ test("Addition works", c("r1.1", "r1.2"), {
   expect_equal(add(1, 4), 5)
 })
 
+
 test("Multiplication works", c("r1.3", "r1.4"), {
   expect_equal(multiply(1, 2), 2)
   expect_equal(multiply(2, 10), 20)
